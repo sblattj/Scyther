@@ -34,5 +34,6 @@ The initial position is:
 
    The ordering of this morphe is Knight -> Rook -> Bishop -> Knight -> Rook -> Bishop ... etc
 
-   The computer only think about four moves deep, have fun and try to win! (I help you by showing where captures are)
+   The computer only think about four moves deep, have fun and try to win! 
+        (I help you by showing where captures are)
 ```
