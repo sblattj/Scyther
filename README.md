@@ -9,7 +9,7 @@ Morphe Engine was built in C++.
 ```
 ./Scyther.bin
 ```
-# More Details:
+# More Details
 
 ```
 The initial position is:
